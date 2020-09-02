@@ -2,16 +2,16 @@
 
 Project Overview
 
-Built a model that predicted that the Australian GDP Growth would have increased by 1.87% if the pandemic did not happen by using mean_absolute_error of Linear Regression and Random Forrest models.
+- Built a model that predicted that the Australian GDP Growth would have increased by 1.87% if the pandemic did not happen by using mean_absolute_error of Linear Regression and Random Forrest models.
 
-Scraped Three tables from 
+- Scraped Three tables from 
 URL: https://www.homeaffairs.gov.au/research-and-stats/files/report-migration-program-2018-19.pdf,
 URL: https://www.austrade.gov.au/Australian/Education/Education-data/Current-data/pivot-tables,
 URL: https://www.macrotrends.net/countries/AUS/australia/gdp-growth-rate.
-Where I used three different tools for scraping: BeautifulSoup, Pandas, Tabula.
-Optimized Linear, Lasso and Random Forest Regression using GridsearchCV to reach the best model.
-Code and Resources Used
-Python Version: 3.7 Packages: BeautifulSoup,tabula,requests,pandas,numpy,sklearn,matplotlib,seaborn,csv, statsmodels.api.
+
+Where I used three different tools for scraping: BeautifulSoup, Pandas, Tabula. Optimized Linear, Lasso and Random Forest Regression using GridsearchCV to reach the best model.
+
+- Code and Resources Used: Python Version: 3.7 Packages: BeautifulSoup,tabula,requests,pandas,numpy,sklearn,matplotlib,seaborn,csv, statsmodels.api.
 
 # Web scraping
 Used the webscraper modules BeautifulSoup, Pandas, Tabula to scrape three tables. We got the following:
