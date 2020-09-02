@@ -2,7 +2,7 @@
 
 Project Overview
 
-Built a model that predicted that the Australian GDP Growth would increase by 1.87% if the pandemic did not happen by using mean_absolute_error of Linear Regression and Random Forrest models.
+Built a model that predicted that the Australian GDP Growth would have increased by 1.87% if the pandemic did not happen by using mean_absolute_error of Linear Regression and Random Forrest models.
 
 Scraped Three tables from 
 URL: https://www.homeaffairs.gov.au/research-and-stats/files/report-migration-program-2018-19.pdf,
