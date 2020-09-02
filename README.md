@@ -1,4 +1,4 @@
-# Project2 - Australian immigration and the economy
+# Australian immigration and the economy
 
 Project Overview
 
